@@ -1,0 +1,112 @@
+﻿Algemene overwegingen
+Vraag
+Geef een korte aanvullende omschrijving van de interne beheersingsmaatregel
+Geef aan hoe je verwacht dat de interne beheersingsmaatregel door de cliënt wordt uitgevoerd
+Hoe vaak wordt de interne beheersingsmaatregel door cliënt uitgevoerd?
+Wil je verwijzen naar een andere control?
+Naar welke control verwijs je (Geef control ID)
+Waarom verwijs je naar de andere control?
+Liggen alle werkzaamheden bij de andere control goed vast? Tot en met de effectiviteit aan toe?
+
+Overwegingen met betrekking tot de opzet en implementatie van de control (9 W-s)
+Vraag
+Waarom vind je dat de beheersingsmaatregel passend is om de interne beheersingsdoelstelling te bereiken?
+Waarom draagt de interne beheersingsmaatregel bij aan het verminderen van het gekoppelde risico?
+"Wie voert de beheersmaatregel uit (de persoon en functie en/of afdeling, verantwoordelijkheid:
+hieruit blijkt de (beheersmaatregeletechnische) functiescheiding)"
+Is (en hoe is) de opzet en implementatie van de interne beheersingsmaatrekel door de entiteit is geëvalueerd en geautoriseerd?
+"Wat voor een werkzaamheden en hoe worden deze uitgevoerd?
+bijvoorbeeld: 
+- afstemmen, vergelijken
+- handmatig, IT dependent, application control, volledig geautomatiseerd / geprogrammeerd"
+"Waarmee worden werkzaamheden uitgevoerd?
+Welke informatie of data wordt gebruikt? Welke technische hulpmiddelen / tools?
+Welke normen worden toegepast?"
+"Wat wordt gedaan met geconstateerde afwijkingen?
+(worden deze intern gerapporteerd en aan wie en wie is verantwoordelijk voor de opvolging van de geconstateerde afwijkingen?"
+"Welke zichtbare vastlegging/spoor van uitvoering werkzaamheden en verantwoordelijkheid wordt gemaakt?
+(is er een aantoonbare audit trail?)"
+"Met welke frequentie wordt de control uitgevoerd?
+(per transactie, batchgewijs, meerdere keren per dag bijgewerkte databases)"
+"Hoe wordt door cliënt bewaakt dat de interne beheersingsmaatregel tijdig en op de juiste wijze wordt uitgevoerd? 
+(GRC-tooling, door een compliance afdeling, door een interne audit afdeling).
+"
+Is de interne beheersingsmaatregel afhankelijk van een andere interne beheersingsmaatregel?
+Waarom ben je overtuigd dat de interne beheersingsmaatregel het risico in opzet effectief afdekt, inclusief de wijze waarop met afwijkingen wordt omgegaan?
+
+
+Conclusie met betrekking tot de opzet en implementatie van de interne beheersingsmaatregel
+Vraag
+Komt de interne beheersingsmaatregel overeen met hetgeen je in de lijncontrole hebt vastgesteld?
+Is de opzet en implementatie van de interne beheersingsmaatregel voldoende om werking te kunnen testen?
+
+Korte beschrijving van de testaanpak op effectiviteit
+"Beschrijf kort hoe je deze interne beheersingsmaatregel op effectiviteit gaat testen
+
+"
+
+Test of one vanwege een application control / volledig geprogrammeerde controle
+
+Vraag
+Wil je een geprogrammeerde control testen?
+Heb je de GITC's (logische toegangsbeheer en wijzigingsbeheer getoetst)?
+Zijn de applicaties gedurende het boekjaar gewijzigd of is de geprogrammeerde controle gedurende het boekjaar gewijzigd?
+
+Aard, diepgang, timing van het toetsen van de effectiviteit van de interne beheersingsmaatregelen
+
+Testmethodieken
+
+Methodiek
+Herhaling uitvoering (op basis van steekproef)
+Observatie / waarneming ter plaatse
+Inspectie
+Interview
+
+Vraag
+Welke frequentie kenmerkt de interne beheersingsmaatregel?
+Verwacht je een afwijkende risico inschatting op basis van het testen van de opzet en implementatie van deze control?
+Is het aantal uit te voeren tests conform handboek H7?
+"Wat is de timing van de werkzaamheden?
+Wanneer heb je de test uitgevoerd en is dit passend binnen de controleperiode?"
+Wil je gebruik maken van het werk van andere deskundigen? (leg vast hoe je dat wil doen en voer een review uit op de rapportages conform het ISAE review modelsjabloon)
+
+
+Betrouwbaarheid bewijs en documentatie van de uitgevoerde testwerkzaamheden (om de effectiviteit van de beheersmaatregel vast te stellen)
+Vraag
+Waar staat het verkregen basisdocument?
+Hoe is dit document verkregen?
+Van wie is dit document verkregen?
+Wat is de functie binnen de organisatie van deze persoon?
+Sinds wanneer werkt deze persoon binnen de organisatie?
+Was je fysiek of via Teams aanwezig bij creatie van de controledata?
+Is de bron van het verkregen bewijs geschikt voort onze testwerkzaamheden?
+Is voldoende eenduidig vast te stellen uit welke bron het bewijs afkomstig is?
+Is de volledigheid en juistheid van het vekregen bewijs vastgesteld en zo ja hoe?
+Zijn de relevante GITC controls (zoals databasetoegang, authenticatie en autorisatie) adequaat ingericht om ongeautoriseerde en ongeregistreerde mutaties van bewijs te voorkomen?
+
+Uitgevoerde sampletest
+
+Vraag
+Aantal items effectief
+Aantal items niet effectief
+
+
+Evaluatie van de effectiviteit (werking)  van de geteste interne beheersingsmaatregel
+
+Vraag
+Ben je van mening dat deze control effectief heeft gewerkt gedurende de gehele auditperiode zodanig de beheersdoelstelling ermee kan worden bereikt?
+Als de uitvoering van de controlwerkzaamheden bij cliënt niet heeft plaatsgevonden heeft dit impact op het bereiken van de beheersdoelstelling?
+Is er een vermoeden dat de uitkomst van een proces door middel van deze control kan worden beinvloed door fraude en/of managementoverride?
+Zijn er compenserende controls nodig om de beheersdoelstelling alsnog te bereiken?
+
+Compenserende controls
+
+Vraag
+Zijn er ook daadwerkelijk compenserende controls aanwezig, zo ja welke?
+In welk werkboek(en) is/zijn deze control(s) getest?
+Bent u van mening dat de optelsom van deze geteste control en de compenserende control samen zorgen voor een effectieve beheersing van het proces conform de beheersdoelstelling(en)?
+
+Eindconclusie
+
+Vraag
+Wat is uw eindoordeel over de effectieve werking van deze control gedurende de auditperiode?
